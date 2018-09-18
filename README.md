@@ -1,3 +1,7 @@
+Play now: http://curtastic.com/codingchallenge/
+ENTER to shoot.
+SPACE to jump.
+
 The challenge:
 To create a 2D side-scroller game using the CreateJs library (EaselJS, TweenJS, SoundJS, PreloadJS) with the following requirements: 
 A player character controlled with WASD and ‘Spacebar‘ to jump (other actions keymapped as desired) 

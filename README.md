@@ -1,6 +1,7 @@
 Play now: http://curtastic.com/codingchallenge/
 ENTER to shoot.
 SPACE to jump.
+You'll need to refresh to restart the game if you lose. There is no way to win.
 
 The challenge:
 To create a 2D side-scroller game using the CreateJs library (EaselJS, TweenJS, SoundJS, PreloadJS) with the following requirements: 

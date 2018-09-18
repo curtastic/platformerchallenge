@@ -1,3 +1,5 @@
+http://curtastic.com/codingchallenge/
+
 Play now: http://curtastic.com/codingchallenge/
 ENTER to shoot.
 SPACE to jump.

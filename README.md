@@ -1,4 +1,4 @@
-Coded in 1 day for job interview. I was given an offer. Artwork was not provided, I gathered and formatted it myself.
+Coded in 1 day for job interview. They then gave me an offer. Artwork was not provided, I gathered and formatted it myself.
 
 Play now: http://curtastic.com/codingchallenge/
 ENTER to shoot.

@@ -1,6 +1,6 @@
 Coded in 1 day for job interview. They then gave me an offer. Artwork was not provided, I gathered and formatted it myself.
 
-Play now: http://curtastic.com/codingchallenge/
+Play now: http://curtastic.com/platformerchallenge/
 ENTER to shoot.
 SPACE to jump.
 You'll need to refresh to restart the game if you lose. There is no way to win.
